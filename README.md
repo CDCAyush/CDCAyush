@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ayushkansal303@gmail.com**
 
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aykansal) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aykansal)
@@ -20,5 +19,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CDCAyush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CDCAyush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
----
-
